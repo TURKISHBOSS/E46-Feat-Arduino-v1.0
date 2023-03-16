@@ -1,0 +1,71 @@
+NO canbus Version Only Km/H Works
+
+Note: My English Isnt That good just make sure you understand:D
+
+What do you need(what i used)
+
+-Arduino 2560
+-Alot of cables
+-12V Adapter
+-E46 Cluster Highline
+
+
+I recomend Buying the Lafvin 2560 Full set
+That has everything you need besides 12v Power suply
+
+Wire Diagram E46 Cluster
+
+Socket X11175
+
+Pin 1 GND 
+Pin 2 Not Used
+Pin 3 Not Used
+Pin 4 12V
+Pin 5 12V
+Pin 6 12V
+Pin 7 Backlight (Not used in this project version)
+Pin 8 Not Used
+Pin 9   Can High (Not Used In this project version)
+Pin 10  Can Low  (Not Used In this project version)
+Pin 11 
+Pin 12
+Pin 13
+Pin 14 KBUS (Not Used In this project version)
+Pin 15 
+Pin 16
+Pin 17
+Pin 18
+Pin 19 Speed 
+Pin 20 GND
+Pin 21 Not Used
+Pin 22 ABS (Not Used In this project version)
+Pin 23 Parking Brake (Not Used In this project version)
+Pin 24 GND
+Pin 25 Not Used
+Pin 26 GND
+
+X11176 
+
+Pin 4 GND
+
+
+-
+
+Connect al the GND to your 12v Power suply negative
+Connect al the 12v to your 12v Power suply positve
+
+
+Diagram wil me atached somewhere,
+
+
+
+
+
+
+Version V2 Matrials
+
+Arduino 2560
+Canbus Shield V2
+12V 
+Jumper Wires
+etc.....
